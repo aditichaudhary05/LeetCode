@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditichaudhary05/LeetCode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aditichaudhary05/LeetCode/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/aditichaudhary05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditichaudhary05/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aditichaudhary05/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aditichaudhary05/LeetCode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditichaudhary05/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aditichaudhary05/LeetCode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
