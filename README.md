@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aditichaudhary05/LeetCode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditichaudhary05/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditichaudhary05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditichaudhary05/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aditichaudhary05/LeetCode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditichaudhary05/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditichaudhary05/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -69,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditichaudhary05/LeetCode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
