@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditichaudhary05/LeetCode/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/aditichaudhary05/LeetCode/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/aditichaudhary05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditichaudhary05/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditichaudhary05/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aditichaudhary05/LeetCode/tree/master/1470-shuffle-the-array) |
