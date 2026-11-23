@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditichaudhary05/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/aditichaudhary05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/aditichaudhary05/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aditichaudhary05/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aditichaudhary05/LeetCode/tree/master/0204-count-primes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditichaudhary05/LeetCode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditichaudhary05/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditichaudhary05/LeetCode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/aditichaudhary05/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditichaudhary05/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
