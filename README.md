@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditichaudhary05/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditichaudhary05/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/aditichaudhary05/LeetCode/tree/master/0493-reverse-pairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditichaudhary05/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditichaudhary05/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aditichaudhary05/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aditichaudhary05/LeetCode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/aditichaudhary05/LeetCode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditichaudhary05/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aditichaudhary05/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/aditichaudhary05/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -146,4 +149,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditichaudhary05/LeetCode/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aditichaudhary05/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aditichaudhary05/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aditichaudhary05/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aditichaudhary05/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aditichaudhary05/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
