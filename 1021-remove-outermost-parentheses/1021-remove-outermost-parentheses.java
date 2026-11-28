@@ -17,7 +17,6 @@ class Solution {
                     ans.append(s.charAt(i));
                 }
             }
-            if(count==0)continue;
 
         }
 
